@@ -2,7 +2,6 @@
 <html>
 <head>
 
-<title>HOMEPAGE owner(MANISH) </title>
 
 </head>
 
