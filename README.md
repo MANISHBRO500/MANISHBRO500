@@ -1,10 +1,9 @@
-<!doctype html>
+
 <html>
-<head>
 
-<title>HOMEPAGE owner(MANISH) </title>
+ 
 
-</head>
+
 
 <body>
 <h1> NOTES </h1>
